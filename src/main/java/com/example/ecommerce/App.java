@@ -1,4 +1,4 @@
-package org.learn.ecommerce;
+package com.example.ecommerce;
 
 /**
  * Hello world!
